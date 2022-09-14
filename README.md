@@ -22,7 +22,7 @@ This clone is built using **HTML5, CSS3 and Tailwind CSS**.
 
 <br>
 
-![Screenshot](./assets/screenshot.png.png)
+![Screenshot](./assets/screenshot.png)
 
 ## 📌 My process
 
